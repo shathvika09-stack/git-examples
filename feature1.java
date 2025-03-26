@@ -4,10 +4,10 @@ public class feature1 {
     }
     public void feature1() {
         System.out.println("feature1");
-<<<<<<< HEAD
         system.out.println("feature1 in the master branch");
-=======
-        system.out.println("feature1 again in the feature branch");
->>>>>>> feature-branch
+    }
+    public void feature1(string string) {
+        System.out.println(x:"feature1");
+        system.out.println(x:"feature1 in the feature branch");
     }
 }
