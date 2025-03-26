@@ -4,5 +4,6 @@ public class feature1 {
     }
     public void feature1() {
         System.out.println("feature1");
+        system.out.println("feature1 again in the feature branch");
     }
 }
